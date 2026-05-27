@@ -81,7 +81,7 @@ pip install numpy pandas scipy matplotlib yfinance
 2. Adjust `training_years` in Block 1 to set the lookback window (e.g. `0.5`, `1`, `2`)
 3. Run:
 ```bash
-python Quant_II_documented.py
+python MPT.py
 ```
 
 Output: console performance tables + `portfolio_vs_markets_ytd.png`
