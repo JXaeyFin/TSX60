@@ -3,6 +3,7 @@
 MPT Data-Driven Asset Allocation Model
 ================================================================================
 Author:      Jeffrey Xia
+Tools Used: VSCode, VSC Copilot, Gemini 3.1 Pro, ChatGPT Codex, Claude Code
 Description: Implements Modern Portfolio Theory (MPT) on TSX 60 constituents
              using SLSQP optimization to construct two portfolios:
                1. Maximum Sharpe Ratio (Tangency Portfolio)
